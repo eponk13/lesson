@@ -7,4 +7,5 @@ there are 6 data ype in java script:
 - string
 - boolean
 - function
-- ...
+- object
+- undefined
